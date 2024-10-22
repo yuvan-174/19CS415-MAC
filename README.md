@@ -1,4 +1,4 @@
-# 19CS415-MAC
+# EX-13-MESSAGE AUTHENTICATION CODE(MAC)
 ## AIM:
 To generate and verify a Message Authentication Code (MAC) for ensuring the integrity and authenticity of a message using a simple XOR operation.
 
